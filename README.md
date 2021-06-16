@@ -1,6 +1,6 @@
 # Particle_Simulation
 
-A Particle Simulator built using C and OpenGL.
+A Particle Simulator built using C and OpenGL Library.
 ---
 **How to Use**
 ---
