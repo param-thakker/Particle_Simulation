@@ -1,7 +1,9 @@
 # Particle_Simulation
+
 A Particle Simulator built using C and OpenGL.
 ---
 **How to Use**
+---
 **Windows**:
 From start menu, search for "x64 Native Tool Command Prompt for {Insert your Version Here}"
 
