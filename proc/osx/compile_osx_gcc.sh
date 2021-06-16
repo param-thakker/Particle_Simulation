@@ -40,7 +40,7 @@ libs=(
 )
 
 # Build
-gcc -O3 ${lib_dirs[*]} ${libs[*]} ${fworks[*]} ${inc[*]} ${src[*]} ${flags[*]} -o SandSim
+gcc -O3 ${lib_dirs[*]} ${libs[*]} ${fworks[*]} ${inc[*]} ${src[*]} ${flags[*]} -o ParticleSim
 
 cd ..
 
