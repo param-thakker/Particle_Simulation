@@ -8,7 +8,7 @@ run proc\win\compile_win_cl.bat
 
 The executable will be placed in bin\
 
-run bin\SandSim.exe
+run bin\ParticleSim.exe
 
 **MacOS**:
 From the terminal, cd into the root directory for this project.
@@ -17,7 +17,7 @@ run bash ./proc/osx/compile_osx_gcc.sh
 
 The exectuable will be placed in bin/
 
-run ./bin/SandSim
+run ./bin/ParticleSim
 
 **Linux**:
 From the terminal, cd into the root directory for this project.
@@ -26,4 +26,4 @@ run bash ./proc/linux/compile_linux_gcc.sh
 
 The exectuable will be placed in bin/
 
-run ./bin/SandSim
+run ./bin/ParticleSim
