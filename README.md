@@ -1,5 +1,5 @@
 # Particle_Simulation
-Windows:
+**Windows**:
 From start menu, search for "x64 Native Tool Command Prompt for {Insert your Version Here}"
 
 Navigate to where you have Particle_Simulation repo placed
@@ -10,7 +10,7 @@ The executable will be placed in bin\
 
 run bin\SandSim.exe
 
-MacOS:
+**MacOS**:
 From the terminal, cd into the root directory for this project.
 
 run bash ./proc/osx/compile_osx_gcc.sh
@@ -19,7 +19,7 @@ The exectuable will be placed in bin/
 
 run ./bin/SandSim
 
-Linux:
+**Linux**:
 From the terminal, cd into the root directory for this project.
 
 run bash ./proc/linux/compile_linux_gcc.sh
