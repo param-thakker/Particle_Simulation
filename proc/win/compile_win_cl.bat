@@ -4,7 +4,7 @@ mkdir bin
 pushd bin
 
 rem Name
-set name=SandSim
+set name=ParticleSim
 
 rem Include directories 
 set inc=/I ..\include /I ..\third_party\include\gunslinger\
